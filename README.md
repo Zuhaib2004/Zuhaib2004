@@ -1,4 +1,4 @@
-# Hi there! 👋 I'm Zuhaib
+Zuhaib Ilyas
 
 ## 🚀 About Me
 I'm a passionate full-stack developer and business consultant with expertise in modern web technologies. I enjoy creating innovative solutions that bridge the gap between business needs and technical implementation. My focus is on building scalable, user-friendly applications that make a real impact.
@@ -52,8 +52,7 @@ An AI-powered revenue optimization tool built with TypeScript, helping businesse
 
 ## 📫 Let's Connect!
 - 💼 [LinkedIn](https://linkedin.com/in/zuhaib2004)
-- 🐦 [Twitter](https://twitter.com/zuhaib2004)
-- 📧 Email: contact@zuhaib.dev
+- 📧 Email:zilyas53@gmail.com
 - 🌐 Portfolio: [zuhaib.dev](https://zuhaib.dev)
 
 ---
