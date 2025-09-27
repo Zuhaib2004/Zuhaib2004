@@ -51,9 +51,8 @@ An AI-powered revenue optimization tool built with TypeScript, helping businesse
 - 💡 Exploring opportunities in fintech and e-commerce solutions
 
 ## 📫 Let's Connect!
-- 💼 [LinkedIn](https://linkedin.com/in/zuhaib2004)
+- 💼 [LinkedIn]((https://www.linkedin.com/in/zuhaib-ilyas/))
 - 📧 Email:zilyas53@gmail.com
-- 🌐 Portfolio: [zuhaib.dev](https://zuhaib.dev)
 
 ---
 
