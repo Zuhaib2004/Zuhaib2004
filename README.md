@@ -1,48 +1,30 @@
 Zuhaib Ilyas
 
 ## 🚀 About Me
-I'm a passionate full-stack developer and business consultant with expertise in modern web technologies. I enjoy creating innovative solutions that bridge the gap between business needs and technical implementation. My focus is on building scalable, user-friendly applications that make a real impact.
+I’m a results-driven Full-Stack Developer and Business Technology Consultant with experience building scalable applications, integrating AI solutions, and optimizing digital workflows. My background combines software engineering with business strategy, enabling me to design user-friendly products that deliver measurable impact. I’ve contributed to AI-powered startups, enterprise cloud projects, and campus IT operations—bridging technical expertise with practical business growth.
 
 ## 💼 What I Do
-- **Full-Stack Development**: Creating end-to-end web applications
-- **Business Consulting**: Helping businesses leverage technology for growth
-- **UI/UX Design**: Crafting intuitive and engaging user experiences
-- **AI Integration**: Implementing AI solutions for business optimization
+Full-Stack Development – End-to-end web and mobile app development using modern frameworks (React, Next.js, Node.js, React Native).
+
+Business & Tech Consulting – Translating business needs into scalable technical solutions.
+
+AI & Data Integration – Applying machine learning, data visualization, and AI-driven insights to optimize workflows.
+
+UI/UX Design – Designing intuitive, responsive, and engaging user experiences.
 
 ## 🛠️ Technical Skills
 
-### Languages
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
-
-### Frameworks & Libraries
-![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
-![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
-![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
-
-### Tools & Technologies
-![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
-![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
-![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+Languages: JavaScript, TypeScript, Python, C, Java, SQL, HTML5, CSS3
+Frameworks & Libraries: React, Next.js, Node.js, Express, React Native, TailwindCSS
+Databases & Cloud: MongoDB, MySQL, Firebase, AWS, GCP
+Tools & Platforms: Git/GitHub, VS Code, Expo, Docker, Postman
 
 ## 🌟 Featured Projects
 
-### 🏢 Business Consultant App
-A comprehensive platform designed to streamline business consulting processes, featuring client management, project tracking, and analytics dashboard.
+### ⚡ EVChargeOptimizer – Smart EV charging assistant providing real-time station data, pricing, and AI-powered route optimization.
+### 🎾 AppPlayed – Racket sports booking app with Google Maps integration, enabling players to discover, reserve, and split payments for courts.
+### 🤖 BoostRev AI - AI-driven dropshipping and e-commerce optimization platform with predictive analytics and one-click fulfillment.
 
-### 🌐 Web Portfolio
-Modern, responsive web applications showcasing best practices in front-end development and user experience design.
-
-### 🤖 BoostRev AI
-An AI-powered revenue optimization tool built with TypeScript, helping businesses maximize their growth potential through intelligent insights.
-
-## 📈 GitHub Stats
-
-![Zuhaib's GitHub stats](https://github-readme-stats.vercel.app/api?username=Zuhaib2004&show_icons=true&theme=radical)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Zuhaib2004&layout=compact&theme=radical)
 
 ## 🎯 Current Goals
 - 🔭 Currently working on expanding my AI/ML knowledge
