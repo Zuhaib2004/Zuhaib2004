@@ -181,7 +181,7 @@ Cloud incident investigation platform that correlates metrics, traces, deploymen
 
 **Focus: Forward-deployed engineering, cloud reliability, and safe AI automation**
 
-[Repository](https://github.com/Zuhaib2004/arcwatch-incident-intelligence) · [Live demo](https://arcwatch-incident-command.zilyas53.chatgpt.site)
+[Repository](https://github.com/Zuhaib2004/arcwatch-incident-intelligence) · [Live demo](https://zuhaib2004.github.io/arcwatch-incident-intelligence/)
 
 </td>
 </tr>
