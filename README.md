@@ -170,16 +170,18 @@ Web application focused on turning business needs into accessible recommendation
 </td>
 <td width="50%" valign="top">
 
-### [Developer Portfolio](https://github.com/Zuhaib2004/Zuhaib2004.github.io)
-*Personal Web Presence*
+### [Arcwatch Incident Intelligence](https://github.com/Zuhaib2004/arcwatch-incident-intelligence)
+*Evidence-Driven AI Incident Response Platform*
 
-Personal portfolio highlighting software projects, technical capabilities, and product-building experience.
+Cloud incident investigation platform that correlates metrics, traces, deployments, and configuration evidence to rank root causes and propose approval-gated remediation.
 
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
-![GitHub Pages](https://img.shields.io/badge/GitHub_Pages-222222?style=flat-square&logo=githubpages&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![Observability](https://img.shields.io/badge/Observability-225a46?style=flat-square&logo=opentelemetry&logoColor=white)
+![SRE](https://img.shields.io/badge/SRE-Incident_Response-b64337?style=flat-square)
 
-**Focus: Personal brand and project showcase**
+**Focus: Forward-deployed engineering, cloud reliability, and safe AI automation**
+
+[Repository](https://github.com/Zuhaib2004/arcwatch-incident-intelligence) · [Live demo](https://arcwatch-incident-command.zilyas53.chatgpt.site)
 
 </td>
 </tr>
