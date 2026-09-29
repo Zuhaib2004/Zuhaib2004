@@ -185,6 +185,22 @@ Cloud incident investigation platform that correlates metrics, traces, deploymen
 
 </td>
 </tr>
+<tr>
+<td colspan="2" valign="top">
+
+### [MSR Explorer](https://github.com/Zuhaib2004/msr-rag-ollama)
+*Interactive Research Retrieval Showcase*
+
+Explore sample searches, inspect illustrative evidence, and learn how CORBA RAG, incremental indexing, and GraphRAG connect documents to retrieval. This browser-only showcase uses authored sample data; it does not run live Ollama inference.
+
+Built as a showcase for a fork of [Zuhayr Saeed’s MSR RAG project](https://github.com/zuhayr-saeed/msr-rag-ollama).
+
+**Focus: Retrieval workflows, evidence inspection, and research exploration**
+
+[Repository](https://github.com/Zuhaib2004/msr-rag-ollama) · [Live demo](https://zuhaib2004.github.io/msr-rag-ollama/)
+
+</td>
+</tr>
 </table>
 
 <br/>
